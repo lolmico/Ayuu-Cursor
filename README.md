@@ -25,4 +25,4 @@ For now the only operating sistem that the cursor supports is Windows (Also feel
 
 **8-** ENJOYYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!
 
-Idea by duusu (my friend)
+<sub>Idea by duusu (my friend)</sub>
