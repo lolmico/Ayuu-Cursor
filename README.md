@@ -11,4 +11,18 @@ For now the only operating sistem that the cursor supports is Windows (Also feel
 
 **1-** First you have to unzip the `ayuu_cursor.zip` for this you can use [7 Zip](https://www.7-zip.org/) or [WinRar](https://www.win-rar.com/start.html?&L=0) I recomend 7 Zip but both work. Place the unziped folder in a place you remember. (I recomend the documents folder)
 
-**2-** Second you press the windows key or the windows icon on the taskbar
+**2-** Search up _Cursor_ in Windows start menu (bottom left) then click _change the mouse pointer display or speed_
+
+**3-** Click _Pointers_
+
+**4-** Select a _cursor type_ and _browse_ 
+
+**5-** Go to the folder with all the Ayuu Chii Cursor 
+
+**6-** Select the cursor whith the same name as the cursor in the mouse properties `Ex: "base" in the settings and "Ayuu_base.cur"`
+
+**7-** Repeat and apply ! !
+
+**8-** ENJOYYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!
+
+Idea by duusu (my friend)
