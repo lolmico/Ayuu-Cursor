@@ -15,9 +15,9 @@ For now the only operating sistem that the cursor supports is Windows (Also feel
 
 **3-** Click _Pointers_
 
-**4-** Select a _cursor type_ and _browse_ 
+**4-** Select _cursor type_ and _browse_ 
 
-**5-** Go to the folder with all the Ayuu Chii Cursor 
+**5-** Go to the folder with all the Ayuu Chii Curso 
 
 **6-** Select the cursor whith the same name as the cursor in the mouse properties `Ex: "base" in the settings and "Ayuu_base.cur"`
 
